@@ -10,7 +10,7 @@ Official initial efforts will be launched early 2020.
 
 Europe is a continent thriving with software innovation. Unfourtunately it all happens in isolated islands spread around the continent.
 
-Berlin, Amsterdam, Brussels, Prague, Rome, Barcelona... 
+Berlin, Amsterdam, Brussels, Prague, Rome, Barcelona and dozens if not hundres more!
 
 By exposing and bringing these places together, we can support each other, collaborate and discuss, altogether shaping a brighter future for the digital Europe.
 
