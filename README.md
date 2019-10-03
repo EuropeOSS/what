@@ -4,7 +4,6 @@
 
 Europe OSS is an initiative to bring together the Open Source Software ecosystem in Europe.
 
-Official initial efforts will be launched early 2020.
 
 ## Why?
 
@@ -13,6 +12,11 @@ Europe is a continent thriving with software innovation. Unfourtunately it all h
 Berlin, Amsterdam, Brussels, Prague, Rome, Barcelona and dozens if not hundres more!
 
 By exposing and bringing these places together, we can support each other, collaborate and discuss, altogether shaping a brighter future for the digital Europe.
+
+## When?
+
+Initial efforts will be launched early 2020.
+
 
 ## I want to help!
 
